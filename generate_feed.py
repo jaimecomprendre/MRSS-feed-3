@@ -7,7 +7,7 @@ from xml.dom import minidom
 # --- Configuration ---
 MEDIA_DIR = "media"                          # Path to your media folder (relative to this script)
 OUTPUT_FILE = "feed.xml"                     # Output path for the generated feed
-BASE_URL = "https://jaimecomprendre.github.io/MRSS-feed-4"  # Base URL of your GitHub Pages site
+BASE_URL = "https://jaimecomprendre.github.io/MRSS-feed-3"  # Base URL of your GitHub Pages site
 FEED_TITLE = "Auto Signage Feed"
  
 SUPPORTED_EXTENSIONS = {
