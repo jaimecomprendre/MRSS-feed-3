@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Auto Signage Feed</title>
+    <item>
+      <title>01-Image1.jpg</title>
+      <link>https://jaimecomprendre.github.io/MRSS-feed/media/01-Image1.jpg</link>
+      <description>https://jaimecomprendre.github.io/MRSS-feed/media/01-Image1.jpg</description>
+      <guid isPermaLink="false">01-image1_0001</guid>
+      <medium>image</medium>
+      <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/01-Image1.jpg" fileSize="171744" type="image/jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>02-Video2.mp4</title>
+      <link>https://jaimecomprendre.github.io/MRSS-feed/media/02-Video2.mp4</link>
+      <description>https://jaimecomprendre.github.io/MRSS-feed/media/02-Video2.mp4</description>
+      <guid isPermaLink="false">02-video2_0002</guid>
+      <medium>video</medium>
+      <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/02-Video2.mp4" fileSize="6698729" type="video/mp4" medium="video"/>
+    </item>
+    <item>
+      <title>03-Image3.jpg</title>
+      <link>https://jaimecomprendre.github.io/MRSS-feed/media/03-Image3.jpg</link>
+      <description>https://jaimecomprendre.github.io/MRSS-feed/media/03-Image3.jpg</description>
+      <guid isPermaLink="false">03-image3_0003</guid>
+      <medium>image</medium>
+      <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/03-Image3.jpg" fileSize="119008" type="image/jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>04-Image2.jpg</title>
+      <link>https://jaimecomprendre.github.io/MRSS-feed/media/04-Image2.jpg</link>
+      <description>https://jaimecomprendre.github.io/MRSS-feed/media/04-Image2.jpg</description>
+      <guid isPermaLink="false">04-image2_0004</guid>
+      <medium>image</medium>
+      <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/04-Image2.jpg" fileSize="119008" type="image/jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>05-Video1.mp4</title>
+      <link>https://jaimecomprendre.github.io/MRSS-feed/media/05-Video1.mp4</link>
+      <description>https://jaimecomprendre.github.io/MRSS-feed/media/05-Video1.mp4</description>
+      <guid isPermaLink="false">05-video1_0005</guid>
+      <medium>video</medium>
+      <media:content url="https://jaimecomprendre.github.io/MRSS-feed/media/05-Video1.mp4" fileSize="6698729" type="video/mp4" medium="video"/>
+    </item>
+  </channel>
+</rss>
